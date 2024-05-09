@@ -1,2 +1,3 @@
 # MarlBotscript
-script to run the bot
+automate the process : script to run the Marlbot
+by Naik
